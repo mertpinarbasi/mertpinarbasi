@@ -1,7 +1,5 @@
 ### Hi there, I'm Mert 👋
 
-## I'm a CS student at Dokuz Eylul University, Turkey.
-
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning javascript and nodejs.
 - 💞️ I’m looking to collaborate on any web development project which includes modern web frameworks.
