@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />] [(https://linkedin.com/in/mertpinarbasi)]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
  
@@ -33,3 +33,4 @@
 <br />
 
 
+[linkedin]: https://linkedin.com/in/mertpinarbasi
