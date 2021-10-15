@@ -1,4 +1,5 @@
 ### Hi there, I'm Mert 👋
+Student at Dokuz Eylül University Computer Engineering Department.
 
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning javascript and nodejs.
