@@ -2,7 +2,7 @@
 Student at Dokuz Eylül University Computer Engineering Department.
 
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning javascript and nodejs.
+- 🌱 I’m currently learning javascript vue.js and node.js.
 - 💞️ I’m looking to collaborate on any web development project which includes modern web frameworks.
 
 ### Connect with me:
