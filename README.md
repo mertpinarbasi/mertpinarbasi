@@ -36,3 +36,4 @@ Student at Dokuz Eylül University Computer Engineering Department.
 
 [linkedin]: https://linkedin.com/in/mertpinarbasi
 [spotify]: https://open.spotify.com/user/11171872961?si=f2b04054498143b3
+[facebook]:
