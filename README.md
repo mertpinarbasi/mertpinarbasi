@@ -8,13 +8,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mertpinarbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mertpinarbasi" height="30" width="40" /></a>
+
 <a href="https://twitter.com/mertpinarbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mertpinarbasi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mertpinarbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertpinarbasi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12948285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12948285" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mertpinarbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mertpinarbasi" height="30" width="40" /></a>
  <a href="https://open.spotify.com/user/11171872961?si=f2b04054498143b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/6e7ac61e2a595a9687945b1ffbbf584d83aafbcb/assets/spotify.svg" alt="mertpinarbasi" height="30" width="40" /></a>
- <a href="https://steamcommunity.com/id/xplo1tt" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Breezeicons-apps-48-steam.svg/72px-Breezeicons-apps-48-steam.svg.png" alt="mertpinarbasi" height="30" width="40" /></a>
+ <a href="https://steamcommunity.com/id/xplo1tt" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Breezeicons-apps-48-steam.svg/72px-Breezeicons-apps-48-steam.svg.png" alt="mertpinarbasi" height="30" width="30" /></a>
+ <a href="https://dev.to/mertpinarbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mertpinarbasi" height="30" width="40" /></a>
 </p>
 
 
