@@ -33,7 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertpinarbasi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mertpinarbasi" /></p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11171872961&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=11171872961&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=11171872961&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)]]
 
 [linkedin]: https://linkedin.com/in/mertpinarbasi
 [spotify]: https://open.spotify.com/user/11171872961?si=f2b04054498143b3
