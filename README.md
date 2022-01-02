@@ -9,6 +9,7 @@ Student at Dokuz Eylül University Computer Engineering Department.
 
 [<img align="left" alt="LinkedIn" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Spotify" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/6e7ac61e2a595a9687945b1ffbbf584d83aafbcb/assets/spotify.svg" />][spotify]
+[<img align="left" alt="LinkedIn" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" />][steam]
 <br />
  
  
@@ -36,4 +37,5 @@ Student at Dokuz Eylül University Computer Engineering Department.
 
 [linkedin]: https://linkedin.com/in/mertpinarbasi
 [spotify]: https://open.spotify.com/user/11171872961?si=f2b04054498143b3
+[steam]: https://steamcommunity.com/id/xplo1tt
 
