@@ -26,3 +26,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertpinarbasi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mertpinarbasi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertpinarbasi&show_icons=true&theme=dracula&locale=en" alt="mertpinarbasi" /></p>
+
+
+
+[linkedin]: https://linkedin.com/in/mertpinarbasi
+[spotify]: https://open.spotify.com/user/11171872961?si=f2b04054498143b3
+[steam]: https://steamcommunity.com/id/xplo1tt
