@@ -32,8 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertpinarbasi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mertpinarbasi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertpinarbasi&show_icons=true&theme=dracula&locale=en" alt="mertpinarbasi" /></p>
-
 
 
 [linkedin]: https://linkedin.com/in/mertpinarbasi
