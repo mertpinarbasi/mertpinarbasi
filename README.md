@@ -7,8 +7,8 @@ Student at Dokuz Eylül University Computer Engineering Department.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>][spotify]
+[<img align="left" alt="LinkedIn" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Spotify" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/6e7ac61e2a595a9687945b1ffbbf584d83aafbcb/assets/spotify.svg" />][spotify]
 <br />
  
  
