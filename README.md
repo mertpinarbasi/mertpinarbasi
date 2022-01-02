@@ -8,7 +8,7 @@ Student at Dokuz Eylül University Computer Engineering Department.
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+[<a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>][spotify]
 <br />
  
  
