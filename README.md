@@ -13,13 +13,13 @@
 <a href="https://linkedin.com/in/mertpinarbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertpinarbasi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12948285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12948285" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mertpinarbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mertpinarbasi" height="30" width="40" /></a>
-  [<img align="left" alt="Spotify" height="30" width="44" src="https://raw.githubusercontent.com/peterthehan/peterthehan/6e7ac61e2a595a9687945b1ffbbf584d83aafbcb/assets/spotify.svg" />][spotify]
+[<img align="left" alt="Spotify" height="30" width="44"src="https://raw.githubusercontent.com/peterthehan/peterthehan/6e7ac61e2a595a9687945b1ffbbf584d83aafbcb/assets/spotify.svg" />][spotify]
   <br />
-
+</p>
 
 [<img align="left" alt="LinkedIn" height="30" width="44" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" />][steam]
 
-</p>
+
 
 
 
