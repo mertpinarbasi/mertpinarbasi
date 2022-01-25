@@ -17,13 +17,6 @@
  <a href="https://dev.to/mertpinarbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mertpinarbasi" height="30" width="40" /></a>
 </p>
 
-
-
-
-
-<br />
- 
-
 <br/>
 <h3 align="left">Notes to Myself:</h3>
 <a href="https://medium.com/@pnrbsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mertpinarbasi" height="30" width="40" /></a>
