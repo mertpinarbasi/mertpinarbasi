@@ -32,6 +32,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertpinarbasi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mertpinarbasi" /></p>
 
+Notes: 
+<a href="https://medium.com/@pnrbsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mertpinarbasi" height="30" width="40" /></a>
+
+
 [linkedin]: https://linkedin.com/in/mertpinarbasi
 [spotify]: https://open.spotify.com/user/11171872961?si=f2b04054498143b3
 [steam]: https://steamcommunity.com/id/xplo1tt
