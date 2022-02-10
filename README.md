@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning javascript vue.js and node.js.
+- 🌱 I’m currently learning back end technologies. 
 - 💞️ I’m looking to collaborate on any web development project which includes modern web frameworks.
 
 <h3 align="left">Connect with me:</h3>
