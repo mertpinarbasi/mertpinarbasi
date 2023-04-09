@@ -29,5 +29,5 @@
 [linkedin]: https://linkedin.com/in/mertpinarbasi
 [spotify]: https://open.spotify.com/user/11171872961?si=f2b04054498143b3
 [steam]: https://steamcommunity.com/id/xplo1tt
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=mertpinarbasi)
 
